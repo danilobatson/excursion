@@ -4,7 +4,7 @@ body{
   text-align: center;
   margin: auto;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  max-width: 800px;
+  max-width: 1200px;
 }
 body {
   margin-top: 100px;
@@ -18,4 +18,8 @@ a{
 }
 #download{
   margin: 21px 0px;
+}
+
+h4{
+  color: grey;
 }
